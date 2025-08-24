@@ -68,4 +68,4 @@ This system validates research documents for:
 - Detects asymmetry in phrasing.
 
 ### 🔹 Module 5: CFG Conformance
-- Implements a **Context-Free Grammar** for research papers:  
+- Implements a **Context-Free Grammar** for research papers
