@@ -40,7 +40,8 @@ This system validates research documents for:
    - **Numbering Hierarchy**
    - **Symmetry & Parallelism**
    - **CFG Conformance**
-4. 📊 **Report Generation** → Summarized analysis with ✅/❌ results.  
+4. 🔎**AI Suggestions and summary** → Detailed insights into writing style,content quality,etc
+5. 📊 **Report Generation** → Summarized analysis with ✅/❌ results.  
 **Output** → Human-readable analysis via **Streamlit UI**.
 
 ---
@@ -69,3 +70,7 @@ This system validates research documents for:
 
 ### 🔹 Module 5: CFG Conformance
 - Implements a **Context-Free Grammar** for research papers
+
+### 🔹 Module 6: AI Summary and Suggestions
+- Implements a AI (using api key) providing detailed analysis on **quality of research papers and gives suggestions** for improvement.
+
